@@ -1,0 +1,1 @@
+The Mail Sender Service is responsible for sending email notifications and alerts using Spring Boot + JavaMailSender. It can be used to confirm transactions, notify users about updates, or send system alerts.
