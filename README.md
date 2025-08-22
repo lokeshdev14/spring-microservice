@@ -1,0 +1,1 @@
+The Eureka Server acts as a central service registry for all microservices in the system. It enables dynamic service discovery, allowing services like Currency Exchange, Currency Conversion, Mail Service, and others to register and communicate without hardcoded URLs.
