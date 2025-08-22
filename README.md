@@ -1,0 +1,1 @@
+The API Gateway acts as the single entry point for all client requests. It handles routing, authentication, request filtering, and load balancing, ensuring secure and efficient access to backend microservices.
