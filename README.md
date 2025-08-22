@@ -1,0 +1,1 @@
+The Admin Server enables real-time monitoring and management of all microservices. It provides a dashboard to track service health, metrics, and logs, helping ensure system reliability and performance.
