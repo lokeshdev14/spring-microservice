@@ -1,0 +1,1 @@
+The Currency Exchange Service provides real-time exchange rates between different currencies. It exposes REST APIs to fetch conversion values and acts as the primary data provider for the Currency Conversion Service. Built with Spring Boot and integrated with MySQL for storing exchange rates.
