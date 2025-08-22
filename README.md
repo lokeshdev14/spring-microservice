@@ -1,0 +1,1 @@
+The Config Server provides centralized configuration management for all microservices. It allows dynamic updates to service properties without requiring redeployment, improving maintainability and consistency across environments.
